@@ -1,7 +1,8 @@
-# Pfam32.0 classifier :dna: :test_tube: :mag:
+# Pfam32.0 classifier
 
 ## Description
-This is a **DeepChain app** to predict the _protein family id_ out of a given sequence.
+This is a **DeepChain app** to predict the _protein family id_ out of a given sequence. :dna: :test_tube: :mag:
+
 The app can be found in the [DeepChain App hub](https://app.deepchain.bio/hub/apps).
 
 ## Data
