@@ -3,6 +3,8 @@
 
 This is a **DeepChain app** to predict the _protein family id_ out of a given sequence.
 
+For extensive details, check the [deepchain-app-pfam-32.0](https://github.com/theomeb/deepchain-app-pfam-32.0) github repo. :nerd_face:
+
 ## Data
 - This app has been trained with the `pfam32.0` dataset available with the [bio-datasets](https://pypi.org/project/bio-datasets) API:
 ```python
