@@ -53,7 +53,7 @@ This app is mean to be deployed in deepchain.bio and has been implemented thanks
 
 ## Templates
 
-Further information on DeepChain 1pp templates can be found [here](./README_deepchainapps.md).
+Further information on DeepChain App templates can be found [here](./README_deepchainapps.md).
 
 ## License
 Apache License Version 2.0
