@@ -1,6 +1,6 @@
 {
-"tasks": [],
-"libraries": [],
-"embeddings": [],
-"datasets": []
+"tasks": ["protein family classification"],
+"libraries": ["pytorch"],
+"embeddings": ["protbert"],
+"datasets": ["pfam-32.0"]
 }
