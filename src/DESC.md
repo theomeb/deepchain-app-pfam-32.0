@@ -47,7 +47,12 @@ FamilyMLP(
 )
 ```
 
-- The model has been trained on the first 200 000 sequences, for which we have embeddings so far, and only on CPU. **A complete model trained on a GPU and the full dataset should be available very soon!** :rocket:
+- For training, we used the already given train/val split and we filtered out training samples for which their classes were not present in the dev split set. We have 13071 final family ids.
+- The model has been trained on a P100 GPU for 20 epochs and reached an accuracy of 87%. 
+- In the future, we will reach to a better accuracy with improvements such as:
+    - Higher model capacity
+    - Weighted loss to account for rare classes
+    - Better and longer training strategy
 
 ## App structure
 
